@@ -1,1 +1,2 @@
 # Lab1
+This Python code asks the user to input their marks and assigns a grade based on the value. If the marks are between 61 and 100, it prints "GRADE A"; for marks between 40 and 60, it prints "GRADE B"; for marks between 21 and 40, it prints "GRADE C". If the marks are above 100, it asks the user to enter a valid value between 1 and 100. If the marks are 20 or below, it prints "you are fail". The code could be improved by handling non-integer inputs and checking for negative values to ensure all inputs are valid.
